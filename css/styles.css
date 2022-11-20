@@ -1,0 +1,55 @@
+.navbar {
+	color: black;
+	background-color: gray;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: black;
+} 
+
+.navbar-default .navbar-toggle {
+	border-color: black;
+}
+
+
+#food-llc {
+	color: black;
+	font-weight: bold;
+	font-size: 1.5em;
+}
+
+#menu-category {
+	color:black;
+}
+
+li.visible-xs {
+	text-align: center;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+
+.our-menu {
+	width: 100%;
+	text-align: center;
+	color: black;
+	font-size: 2em;
+	margin-top: 0px;
+}
+
+.menu-items span {
+	font-size: 1.5em;
+}
+
+.menu-items {
+	text-align: center;
+	background-color: gray;
+	margin: 15px auto 15px;
+	color: black;
+	font-size: 1em;
+}
+
+.menu-content {
+	text-align: left;
+	margin-bottom: 25px;
+}
